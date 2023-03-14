@@ -19,20 +19,13 @@ last_name: Leidinger
 organizations:
 - name: Cal Poly Humboldt
   url: https://www.humboldt.edu/
-role: Geology Master's Student
+role: Graduate Student
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/woodshroom
@@ -43,9 +36,9 @@ social:
   icon_pack: ai
   link: uploads/resume.pdf
 status:
-  icon: ☕️
+  icon: <i class="fa-solid fa-bug-slash"></i>
 superuser: true
 title: Sarah Leidinger
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sarah Leidinger's house has been overrun by ants. The effort to control their has only encouraged them. Every cup, every corner, every crevice is occupied by the squishable fiends. Like spies they covertly traverse the ceiling of the BIG ROOM to hover just above me. Without warning they reach back towards the ground landing in my hair, my glasses, my eyelashes. This offensive has been ongoing for the better part of a month and each day it wears down my sanity. ALAS! There is one thing this tireless horde cannot take from me: this website. Please allow this space to immortalize me long after I've succumbed to the 6-legged devils.
