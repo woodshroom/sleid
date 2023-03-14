@@ -6,26 +6,26 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: Dark
+  theme_night: Dark
+  font: modern
   font_size: L
 
 # SEO
 
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
+#marketing:
+#  seo:
+ #   site_type: Person
+  #  local_business_type: ''
+   # org_name: ''
+    #description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    #twitter: 'wowchemy'
+  #analytics:
+   # google_analytics: ''
+    #baidu_tongji: ''
+  #verification:
+   # google: ''
+    #baidu: ''
 
 # Site header
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2023 Me. Website logo <a target="_blank" href="https://icons8.com/icon/wa8ANZQVnE3A/humus">Humus</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>'
     license:
       enable: true
       allow_derivatives: false
